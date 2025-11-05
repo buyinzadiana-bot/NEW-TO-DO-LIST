@@ -17,6 +17,8 @@ Usage
 File Structure
 
 
+![image alt](https://github.com/buyinzadiana-bot/-Static-E-commerce-Homepage/blob/11e10e576c51d08cc2309ebe040730811197227c/Screenshot%202025-11-05%20at%2007.46.31.png)
+
 Features
 
 Add Tasks: Add new tasks with title, due date, priority, and category.
